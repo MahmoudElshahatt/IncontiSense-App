@@ -21,14 +21,13 @@ https://github.com/MahmoudElshahatt/Sh-musify/assets/79477855/1b2706b0-ea29-41a5
 
 IncontiSense is built using the following cutting-edge technologies:
 
-* Media 3: The new home for media libraries that enables Android apps to display rich audio and visual experiences.
+* Clean architecture: A method of software development in which you should be able to identify what a program performs merely by looking at its source code.
 * Hilt: Dependency injection for clean and modular code.
-* SharedPreferences: Manage user preferences and settings efficiently.
+* Data Store: Manage user preferences and settings efficiently.
 * Room database: Robust local data storage and caching for uninterrupted offline access.
 * MVVM architecture: Well-structured and maintainable codebase.
+* Coil: Effortlessly load and display book cover images with optimized caching and memory management.
 * Splash Screen 12: Create an engaging and visually appealing launch experience using the Splash Screen API.
-* Glide: Effortlessly load and display book cover images with optimized caching and memory management.
-
 
 
 
