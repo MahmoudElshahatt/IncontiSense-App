@@ -34,6 +34,7 @@ IncontiSense is built using the following cutting-edge technologies:
 
 * Modularization: Organizing a codebase into loosely coupled and self-contained parts.
 * Clean architecture: A method of software development in which you should be able to identify what a program performs merely by looking at its source code.
+* Alarm Manager: A method that gives you a way to perform time-based operations outside the lifetime of your application..
 * Hilt: Dependency injection for clean and modular code.
 * Data Store: Manage user preferences and settings efficiently.
 * Room database: Robust local data storage and caching for uninterrupted offline access.
