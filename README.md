@@ -11,7 +11,7 @@ The app is designed for self-management of stress urinary incontinence in women.
 3- Lifestyle modifications to improve symptoms and  quality of life.
 
 
-## Try The App
+## Check out the App
 
 [Download app](https://files.fm/u/zngm2emeeq)
 
