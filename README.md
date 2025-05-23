@@ -24,7 +24,8 @@ https://github.com/MahmoudElshahatt/IncontiSense-App/assets/79477855/c2608e3b-ac
 
 </br>
 
-<img src="https://github.com/MahmoudElshahatt/IncontiSense/assets/79477855/87a63866-a325-4b4c-93bd-aa32aa0857bf" width="750" height="550">
+<img src="https://github.com/user-attachments/assets/281faf00-1c10-4f59-a17e-6a94027251fc" width="750" height="550">
+
 
 
 
